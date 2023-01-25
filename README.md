@@ -1,3 +1,5 @@
+[![Name](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/meiranbot/animated-lamp)
+
 # [Screenshotit_bot](https://tx.me/screenshotit_bot)
 
 > Telegram Bot For Screenshot Generation.
